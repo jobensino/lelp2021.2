@@ -11,6 +11,7 @@ int main()
 {
 	int n,e,s,p;
 	
+	x= 5;
 		// entrada de dados
 	printf("Informe um inteiro qualquer: ");
 	scanf("%i",&n);
