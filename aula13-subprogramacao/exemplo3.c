@@ -67,8 +67,7 @@ int main()
 	// verificar se triangulo retangulo - subproblema-3
 	ehRet = ehRetangulo(a,b,c);
 	
-	// exibição de dados
+	// exibição de dados - subproblema-4
 	mostraDados(ehTri,ehRet);
-	
 }
 
